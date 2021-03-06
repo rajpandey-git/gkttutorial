@@ -2,3 +2,4 @@ hi mera dil
 modify file
 dekho is bar
 after ignore
+after commit in ignore
